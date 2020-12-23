@@ -1,1 +1,102 @@
+/*Стили вычисление квадратного уравнения */
 
+.quadric {
+    max-width: 100%;
+    min-width: 500px;
+    height: 120px;
+    background-color: #330099;
+    text-align: center;
+    border-bottom: 2px solid green;
+}
+
+.a, .b, .c {
+    width: 70px;
+    height: 30px;
+    font-size: 22px;
+    text-align: center;
+    margin: 10px;
+}
+
+.out2 {
+    
+    color: #FFCC00;
+}
+.out {
+    display: inline-block;
+    margin: 10px;
+    font-size: 20px;
+    color: #FFCC00;
+}
+
+/*Стили проверки тройки Пифагора */
+
+.pifagor {
+    max-width: 100%;
+    min-width: 500px;
+    height: 120px;
+    background-color: #330099;
+    text-align: center;
+    border-bottom: 2px solid green;
+}
+
+.aP, .bP, .cP {
+    width: 70px;
+    height: 30px;
+    font-size: 22px;
+    text-align: center;
+    margin: 10px;
+}
+
+.outPifagor {
+    display: inline-block;
+    margin: 10px;
+    font-size: 20px;
+    color: #FFCC00;
+}
+
+.outPifagor2 {
+    
+    color: #FFCC00;
+}
+
+/*Стили для вывода списка делителей числа */
+
+.divisorList {
+    max-width: 100%;
+    min-width: 500px;
+    
+    background-color: #330099;
+    text-align: center;
+}
+
+.inputDivisor {
+    width: 70px;
+    height: 30px;
+    font-size: 22px;
+    text-align: center;
+    margin: 10px;
+}
+
+.outDivisorList {
+    margin: 10px;
+    font-size: 20px;
+    color: #FFCC00;
+}
+
+.pDivisor {
+    text-align: center;
+    font-size: 20px;
+    color: #ffcc00;
+}
+
+.ulDivisor {
+    list-style: none;
+    text-align: center;
+}
+
+.ulDivisor li {
+    
+    color: #FFCC00;
+    margin-right: 35px;
+    font-size: 25px;
+}
